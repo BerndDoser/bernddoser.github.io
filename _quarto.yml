@@ -16,12 +16,8 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/bernddoser
 
-
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
