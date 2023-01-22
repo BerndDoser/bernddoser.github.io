@@ -1,0 +1,121 @@
+---
+title: Curriculum Vitae
+subtitle: Bernd Doser
+about:
+  template: solana
+  image: images/portrait-bernd-doser.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/bernddoser
+    - icon: mastodon
+      text: mastodon
+      href: https://mastodon.world/@braintwister
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/BerndDoser
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bernddoser
+---
+
+### EXPERIENCE
+
+ **Senior Software Engineer** @ [HITS gGmbH](https://www.h-its.org/)  
+Since 08/2019
+
+  - Implementation of a container-based development environment
+  - Implementation of „Random Acceleration Molecular Dynamics“
+    within GROMACS (C++)
+  - Design and implementation of TACO (Python und R)
+  - Design und implementation of ColBreaker (C++20)
+      
+**Software Engineer** @ [HITS gGmbH](https://www.h-its.org/)  
+08/2014 - 07/2019
+
+  - Project-oriented support for scientific groups
+  - In-house training of modern software development techniques
+  - Implementation and support of continuous integration services
+  - Advisory service in high performance computing, C++, Docker,
+    continuous integration and deployment, ...
+  - Requirement analysis
+  - Implementation of classification of galaxies (C++, CUDA)
+  - Implementation of "Force Distribution Analysis" in GROMACS (C++)
+  - Implementation of algebraic multigrid methods in HiFlow3 (C++)
+      
+**Scientific Software Engineer** @ [AMS GmbH](https://avmatsim.eu)  
+12/2010 - 06/2014
+
+  - Implementation of a C++ library for automatic differentiation
+  - Implementation of moleculare structure fragmentation for the
+    automated force field fitting
+  - Contract research and validation studies for the chemical and
+    pharmaceutical industry
+  - Integration of third party software
+  - Validations studies to improve the accuracy of crystal structure
+    prediction
+      
+**Reseach assistent** @ Ludwig-Maximilians-Universität München  
+04/2010 - 11/2010
+
+ - Implementation of sparse algebra routines using multi-core CPU
+   and GPU architectures
+
+**Reseach assistent** @ Eberhard-Karls-Universität Tübingen  
+03/2009 - 03/2010
+
+ - Development and implementation of ab-initio methods for high-accuracy
+   calculations of large biochemical systems.
+
+
+## EDUCATION
+
+  - 02/2004 - 02/2009	**PhD** (summa cum laude)  
+    [Linear-scaling Møller-Plesset Perturbation Theory for the Calculation of Electron Correlation in Large Molecules](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/49360)  
+    Institute of Physical and Theoretical Chemistry  
+    University of Tübingen
+
+  - 08/2003 - 02/2004	**Diplom**  
+    Institute of Physical and Theoretical Chemistry  
+    University of Tübingen
+
+
+## CERTIFICATES
+
+  - **Jenkins Engineer** (CloudBees, 2017)
+  - **Embedded Smart Home** (OpenHPI, 2016)
+  - **Concurrency- and Multi-Threading in C++11/14** (Nicolai Josuttis, 2015)
+  - **C++ für Fortgeschrittene** (Peter Gottschling, 2013)
+  - **High-Performance Computing with GPGPUs** (Leibniz-RZ, 2010)
+
+
+## PUBLICATIONS
+
+  - D.B. Kokh, B. Doser, S. Richter, F. Ormersbach, X. Cheng and R.C. Wade  
+    A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories  
+    [J. Chem. Phys. 153, 125102 (2020).](https://arxiv.org/abs/2006.11066)
+  - K. L. Posterer, F. Gieseke, C. Igel, B. Doser and N. Gianniotis  
+    Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs  
+    [ESANN (2016).]()
+  - B. Doser, D. S. Lambrecht, J. Kussmann and C. Ochsenfeld  
+    Linear-Scaling Atomic Orbital-Based Second-Order Møller-Plesset Perturbation Theory by Rigorous Integral Screening Criteria  
+    [J. Chem. Phys. 130, 064107 (2009).]()
+  - [More at Google scholar](https://scholar.google.de/citations?user=4W-yAx0AAAAJ&hl=en)
+
+
+## TALKS
+
+  - [Workshop: The New ISO Standard C++20](https://bernddoser.github.io/workshop-cpp20)  
+    HITS gGmbH, 2022 in Heidelberg
+  - [Workshop: Dependency management](https://bernddoser.github.io/workshop-dependency-management/)  
+    HITS gGmbH, 2019 in Heidelberg
+  - Workshop: Continuous Integration and Deployment  
+    HITS gGmbH, 2017 in Heidelberg
+  - HiFlow3: Classification regarding new C++ techniques  
+    EMCL-Klausurtagung, 2015 in Trier
+  - Workshop: Modern Software Development with C++  
+    HITS gGmbH, 2015 in Heidelberg
+  - Assessment of a Variety of Dispersion-corrected
+    Density Functional Theory Calculations Used
+    in Molecular Crystal Structure Prediction  
+    7th German Conference on Chemoinformatics, 2011 in Goslar
