@@ -1,7 +1,6 @@
 ---
 title: Curriculum Vitae
 subtitle: Bernd Doser
-toc: true
 about:
   template: solana
   image: images/portrait-bernd-doser.jpg
@@ -20,7 +19,7 @@ about:
       href: https://www.linkedin.com/in/bernddoser
 ---
 
-### EXPERIENCE
+## EXPERIENCE
 
  **Senior Software Engineer** @ [HITS gGmbH](https://www.h-its.org/)  
 Since 08/2019
