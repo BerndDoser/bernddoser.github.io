@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 subtitle: Bernd Doser
+bibliography: references.bib
 about:
   template: solana
   image: images/portrait-bernd-doser.jpg
@@ -28,6 +29,7 @@ Since 08/2019
     (SPACE-CoE)](https://www.space-coe.eu/).
   - Implementation of [Random Acceleration Molecular Dynamics (RAMD)](https://github.com/HITS-MCM/gromacs-ramd)
     within GROMACS (C++)
+  - Implementation of [Hyperspherical Variational Autoencoder (Spherinator)](https://github.com/HITS-AIN/Spherinator)
   - Implementation of [Tools for Automated Characterisation of Oscillations (TACO)](https://github.com/HITS-TOS/TACO)
     (Python and R)
   - Design und implementation of a coarse grained collagen simulation program (C++20)
@@ -93,6 +95,9 @@ Since 08/2019
 
 ## CERTIFICATES
 
+  - **Encoder-Decoder Architecture** (Google, 2023)
+  - **Introduction to Generative AI** (Google, 2023)
+  - **Introduction to Large Language Models** (Google, 2023)
   - **Jenkins Engineer** (CloudBees, 2017)
   - **Embedded Smart Home** (OpenHPI, 2016)
   - **Concurrency- and Multi-Threading in C++11/14** (Nicolai Josuttis, 2015)
@@ -102,7 +107,10 @@ Since 08/2019
 
 ## PUBLICATIONS
 
-  - D.B. Kokh, B. Doser, S. Richter, F. Ormersbach, X. Cheng and R.C. Wade  
+  - K. L. Polsterer, B. Doser, A. Fehlner and S. Trujillo-Gomez  
+    Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations 
+    [Astronomical Data Analysis Software and Systems XXXIII (2024) in press.]()
+  - D. B. Kokh, B. Doser, S. Richter, F. Ormersbach, X. Cheng and R. C. Wade  
     A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories  
     [J. Chem. Phys. 153, 125102 (2020).](https://arxiv.org/abs/2006.11066)
   - K. L. Posterer, F. Gieseke, C. Igel, B. Doser and N. Gianniotis  
