@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -242,16 +242,17 @@ A workflow for exploring ligand dissociation from a macromolecule: Efficient ran
 <a href="https://arxiv.org/abs/2006.11066">J. Chem. Phys. 153, 125102 (2020).</a></p></li>
 <li><p>K. L. Posterer, F. Gieseke, C. Igel, B. Doser and N. Gianniotis<br>
 Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs<br>
-<a href="">ESANN (2016).</a></p></li>
+<a href="https://www.esann.org/sites/default/files/proceedings/legacy/es2016-116.pdf">ESANN (2016).</a></p></li>
 <li><p>B. Doser, D. S. Lambrecht, J. Kussmann and C. Ochsenfeld<br>
 Linear-Scaling Atomic Orbital-Based Second-Order Møller-Plesset Perturbation Theory by Rigorous Integral Screening Criteria<br>
-<a href="">J. Chem. Phys. 130, 064107 (2009).</a></p></li>
+<a href="https://doi.org/10.1063/1.3072903">J. Chem. Phys. 130, 064107 (2009).</a></p></li>
 <li><p><a href="https://scholar.google.de/citations?user=4W-yAx0AAAAJ&amp;hl=en">Complete list</a></p></li>
 </ul>
 </section>
 <section id="talks" class="level2">
 <h2 data-anchor-id="talks">TALKS</h2>
 <ul>
+<li><a href="https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/">Machine learning prototype for SPACE applications</a> <a href="https://www.space-coe.eu">SPACE CoE</a>, May 2024</li>
 <li><a href="https://bernddoser.github.io/workshop-cpp20">Workshop: The New ISO Standard C++20</a><br>
 HITS gGmbH, 2022 in Heidelberg</li>
 <li><a href="https://bernddoser.github.io/pink-adass19-slides/">Demo Booth: Parallelized rotation and flipping INvariant Kohonen maps (PINK)</a> <a href="https://www.adass2019.nl">ADASS 2019</a> in Groningen, the Netherlands</li>
@@ -348,6 +349,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/BerndDoser\.github\.io\/bernddoser\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -382,7 +401,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
