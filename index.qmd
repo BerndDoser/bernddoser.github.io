@@ -108,7 +108,7 @@ Since 08/2019
 ## PUBLICATIONS
 
   - K. L. Polsterer, B. Doser, A. Fehlner and S. Trujillo-Gomez  
-    Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations 
+    Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations  
     [Astronomical Data Analysis Software and Systems XXXIII (2024) in press.]()
   - D. B. Kokh, B. Doser, S. Richter, F. Ormersbach, X. Cheng and R. C. Wade  
     A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories  
@@ -125,11 +125,11 @@ Since 08/2019
 
 ## TALKS
 
-  - [Machine learning prototype for SPACE applications](https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/)
+  - [Machine learning prototype for SPACE applications](https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/)  
     [SPACE CoE](https://www.space-coe.eu), May 2024
   - [Workshop: The New ISO Standard C++20](https://bernddoser.github.io/workshop-cpp20)  
     HITS gGmbH, 2022 in Heidelberg
-  - [Demo Booth: Parallelized rotation and flipping INvariant Kohonen maps (PINK)](https://bernddoser.github.io/pink-adass19-slides/)
+  - [Demo: Parallelized rotation and flipping INvariant Kohonen maps (PINK)](https://bernddoser.github.io/pink-adass19-slides/)  
     [ADASS 2019](https://www.adass2019.nl) in Groningen, the Netherlands
   - [Workshop: Dependency management](https://bernddoser.github.io/workshop-dependency-management/)  
     HITS gGmbH, 2019 in Heidelberg
