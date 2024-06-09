@@ -109,16 +109,16 @@ Since 08/2019
 
   - K. L. Polsterer, B. Doser, A. Fehlner and S. Trujillo-Gomez  
     Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations  
-    [Astronomical Data Analysis Software and Systems XXXIII (2024) in press.]()
+    [Astronomical Data Analysis Software and Systems XXXIII (2024)](https://arxiv.org/abs/2406.03810).
   - D. B. Kokh, B. Doser, S. Richter, F. Ormersbach, X. Cheng and R. C. Wade  
     A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories  
-    [J. Chem. Phys. 153, 125102 (2020).](https://arxiv.org/abs/2006.11066)
+    [J. Chem. Phys. 153, 125102 (2020)](https://arxiv.org/abs/2006.11066).
   - K. L. Posterer, F. Gieseke, C. Igel, B. Doser and N. Gianniotis  
     Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs  
-    [ESANN (2016).](https://www.esann.org/sites/default/files/proceedings/legacy/es2016-116.pdf)
+    [ESANN (2016)](https://www.esann.org/sites/default/files/proceedings/legacy/es2016-116.pdf).
   - B. Doser, D. S. Lambrecht, J. Kussmann and C. Ochsenfeld  
     Linear-Scaling Atomic Orbital-Based Second-Order Møller-Plesset Perturbation Theory by Rigorous Integral Screening Criteria  
-    [J. Chem. Phys. 130, 064107 (2009).](https://doi.org/10.1063/1.3072903)
+    [J. Chem. Phys. 130, 064107 (2009)](https://doi.org/10.1063/1.3072903).
 
   - [Complete list](https://scholar.google.de/citations?user=4W-yAx0AAAAJ&hl=en)
 
