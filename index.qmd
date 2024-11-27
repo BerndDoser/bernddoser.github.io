@@ -125,9 +125,8 @@ Since 08/2019
 
 ## TALKS
 
-  - [Poster: Machine-Learning Workflow for Morphology Classification of Galaxies]
-    (https://drive.google.com/file/d/1X8ztdw_echSe0TJIMJA5QgHWyHAnSoE0/view?usp=sharing)  
-    ADASS XXXIV, 2024 in Valetta (Malta)
+  - [Poster: Machine-Learning Workflow for Morphology Classification of Galaxies](https://drive.google.com/file/d/1X8ztdw_echSe0TJIMJA5QgHWyHAnSoE0/view?usp=sharing)  
+    [ADASS XXXIV](https://www.um.edu.mt/events/adass2024/), 2024 in Valetta (Malta)
   - [Seminar: Machine Learning Workflow Orchestration](https://bernddoser.github.io/ML-workflow-orchestration)  
     HITS gGmbH, 2024 in Heidelberg
   - [Machine learning prototype for SPACE applications](https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/)
