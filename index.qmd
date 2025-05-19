@@ -107,6 +107,9 @@ Since 08/2019
 
 ## PUBLICATIONS
 
+  - B. Doser, K. L. Polsterer, A. Fehlner and S. Trujillo-Gomez  
+    Machine Learning Workflow for Morphological Classification of Galaxies  
+    [Astronomical Data Analysis Software and Systems XXXIV (2025)](https://arxiv.org/abs/2505.04676).
   - K. L. Polsterer, B. Doser, A. Fehlner and S. Trujillo-Gomez  
     Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations  
     [Astronomical Data Analysis Software and Systems XXXIII (2024)](https://arxiv.org/abs/2406.03810).
@@ -125,6 +128,8 @@ Since 08/2019
 
 ## TALKS
 
+  - [Representation Learning with Spherinator](https://bernddoser.github.io/SPACE_HPC_Visualization_Workshop/)  
+    [SPACE CoE: High-Performance Computing Visualization](https://www.space-coe.eu/training/training-20250401.php), 2025 in Barelona (Spain)
   - [Poster: Machine-Learning Workflow for Morphology Classification of Galaxies](https://drive.google.com/file/d/1X8ztdw_echSe0TJIMJA5QgHWyHAnSoE0/view?usp=sharing)  
     [ADASS XXXIV](https://www.um.edu.mt/events/adass2024/), 2024 in Valetta (Malta)
   - [Seminar: Machine Learning Workflow Orchestration](https://bernddoser.github.io/ML-workflow-orchestration)  
