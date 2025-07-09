@@ -128,14 +128,15 @@ Since 08/2019
 
 ## TALKS
 
-  - [Representation Learning with Spherinator](https://bernddoser.github.io/SPACE_HPC_Visualization_Workshop/)  
+  - [Representation Learning with Spherinator](https://bernddoser.github.io/SPACE_HPC_Visualization_Workshop/)
+    ([Video](https://youtu.be/XjJ4XQE9gIc?t=1769))  
     [SPACE CoE: High-Performance Computing Visualization](https://www.space-coe.eu/training/training-20250401.php), 2025 in Barelona (Spain)
   - [Poster: Machine-Learning Workflow for Morphology Classification of Galaxies](https://drive.google.com/file/d/1X8ztdw_echSe0TJIMJA5QgHWyHAnSoE0/view?usp=sharing)  
     [ADASS XXXIV](https://www.um.edu.mt/events/adass2024/), 2024 in Valetta (Malta)
   - [Seminar: Machine Learning Workflow Orchestration](https://bernddoser.github.io/ML-workflow-orchestration)  
     HITS gGmbH, 2024 in Heidelberg
   - [Machine learning prototype for SPACE applications](https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/)
-    ([Video](https://youtu.be/FwEr0Jy1CMQ?si=a1W4sz_HX7ApmssQ))  
+    ([Video](https://youtu.be/FwEr0Jy1CMQ?t=1621))  
     [SPACE CoE](https://www.space-coe.eu), May 2024
   - [Workshop: The New ISO Standard C++20](https://bernddoser.github.io/workshop-cpp20)  
     HITS gGmbH, 2022 in Heidelberg
