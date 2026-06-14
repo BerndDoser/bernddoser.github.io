@@ -107,6 +107,9 @@ Since 08/2019
 
 ## PUBLICATIONS
 
+  - B. Doser, K. L. Polsterer, and S. Trujillo-Gomez  
+    Representation Learning for Gaia XP DR3  
+    [Astronomical Data Analysis Software and Systems XXXV (2026)](https://zenodo.org/records/20689266).
   - B. Doser, K. L. Polsterer, A. Fehlner, and S. Trujillo-Gomez  
     Machine Learning Workflow for Morphological Classification of Galaxies  
     [Astronomical Data Analysis Software and Systems XXXIV (2025)](https://arxiv.org/abs/2505.04676).
