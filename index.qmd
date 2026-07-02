@@ -131,8 +131,10 @@ Since 08/2019
 
 ## TALKS
 
+  - [From Visualization to Knowledge Discovery](https://bernddoser.github.io/PASC26/)  
+    [PASC26](https://pasc-conference.org/editions/pasc26/), 2026 in Bernd, Switzerland
   - [EDUCADO Slurm Workshop](https://bernddoser.github.io/EDUCADO_Slurm_Workshop/)  
-    [EDUCADO–MWGaiaDN Training School](https://indico.global/event/16263/overview), 2026 in Gent
+    [EDUCADO–MWGaiaDN Training School](https://indico.global/event/16263/overview), 2026 in Gent, Belgium
   - [Poster: Representation Learning for Gaia XP DR3 (Gaia Explorer)](https://drive.google.com/file/d/1ATYQdEjPXpH-MDBw39aqG0fdtuxEHNks/view?usp=sharing)  
     [Astroinformatics 2026](https://ai2026.astro.uni-koeln.de/) in Cologne
   - [Poster: Representation Learning for Gaia XP DR3](https://indico.dzastro.de/event/4/contributions/74/attachments/59/100/ADASS_2025_Poster_Bernd_Doser_v2.pdf)  
@@ -141,7 +143,7 @@ Since 08/2019
     ([Video](https://youtu.be/XjJ4XQE9gIc?t=1769))  
     [SPACE CoE: High-Performance Computing Visualization](https://www.space-coe.eu/training/training-20250401.php), 2025 in Barelona (Spain)
   - [Poster: Machine-Learning Workflow for Morphology Classification of Galaxies](https://drive.google.com/file/d/1X8ztdw_echSe0TJIMJA5QgHWyHAnSoE0/view?usp=sharing)  
-    [ADASS XXXIV](https://www.um.edu.mt/events/adass2024/), 2024 in Valetta (Malta)
+    [ADASS XXXIV](https://www.um.edu.mt/events/adass2024/), 2024 in Valetta, Malta
   - [Seminar: Machine Learning Workflow Orchestration](https://bernddoser.github.io/ML-workflow-orchestration)  
     HITS gGmbH, 2024 in Heidelberg
   - [Machine learning prototype for SPACE applications](https://bernddoser.github.io/SPACE_CoE_Training_2024_05_07/)
